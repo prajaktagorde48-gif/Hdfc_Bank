@@ -7,5 +7,7 @@ public class Demo3 {
 		System.err.println("welcome to QA branch");
 		int a = 20;
 		int b=45;
+		int c=24;
+
 	}
 }
